@@ -1,0 +1,5 @@
+.env
+archiv/
+myenv/
+__pycache__
+.mypy_cache
